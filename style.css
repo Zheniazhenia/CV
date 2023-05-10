@@ -86,6 +86,12 @@ a:active {
     list-style:circle;
 }
 
+.card h3 {
+    color: #86898f;
+    margin-bottom: 10px;
+    list-style:circle;
+}
+
 .table {
     width: 100% ;
 }
