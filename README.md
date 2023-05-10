@@ -1,2 +1,2 @@
-# HTML-Minin
-Vladilen Minin HTML Beginner course
+# My CV
+cptyevgenii@gmail.com
